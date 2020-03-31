@@ -1,6 +1,4 @@
 /*  Name: Allen Sha
- *  PennKey: allensha
- *  Recitation: 217
  *
  * no execution
  * 
